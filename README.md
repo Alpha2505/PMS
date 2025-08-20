@@ -2,6 +2,8 @@
 
 A comprehensive Java-based desktop application designed to facilitate efficient project collaboration, task tracking, and team management within organizations. Built with role-based access control and enterprise-grade security features.
 
+## Checkout the master branch for the code.
+
 ## 🚀 Key Features
 
 ### Multi-Role Access Control
