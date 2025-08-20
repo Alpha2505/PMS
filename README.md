@@ -43,15 +43,6 @@ A comprehensive Java-based desktop application designed to facilitate efficient 
 - Role-based permissions system
 - Database credential separation
 
-## 📋 Prerequisites
-
-Ensure you have the following installed:
-
-- **Java JDK 8+**: [Download here](https://www.oracle.com/java/technologies/downloads/)
-- **MySQL Server 8.0+**: [Download here](https://dev.mysql.com/downloads/mysql/)
-- **MySQL Workbench**: [Download here](https://www.mysql.com/products/workbench/)
-- **IntelliJ IDEA**: [Download here](https://www.jetbrains.com/idea/download/)
-
 ## 📊 Database Schema Overview
 
 ### Core Entities
@@ -107,12 +98,6 @@ Ensure you have the following installed:
 - Input validation and sanitization
 - Role-based access control at UI level
 - Password hashing with secure algorithms
-
-### Performance Features
-- Optimized database queries
-- Connection pooling
-- Efficient data loading strategies
-- Minimal UI blocking operations
 
 ### Code Organization
 - Modular dashboard architecture
